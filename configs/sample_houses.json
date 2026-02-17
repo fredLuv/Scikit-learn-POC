@@ -1,0 +1,36 @@
+[
+  {
+    "year_built": 2006,
+    "stories": 1,
+    "num_bedrooms": 4,
+    "full_bathrooms": 3,
+    "half_bathrooms": 0,
+    "livable_sqft": 2200,
+    "total_sqft": 2350,
+    "garage_type": "none",
+    "garage_sqft": 0,
+    "carport_sqft": 0,
+    "has_fireplace": true,
+    "has_pool": false,
+    "has_central_heating": true,
+    "has_central_cooling": true,
+    "city": "Brownport"
+  },
+  {
+    "year_built": 1998,
+    "stories": 2,
+    "num_bedrooms": 5,
+    "full_bathrooms": 4,
+    "half_bathrooms": 1,
+    "livable_sqft": 3400,
+    "total_sqft": 3900,
+    "garage_type": "attached",
+    "garage_sqft": 500,
+    "carport_sqft": 0,
+    "has_fireplace": true,
+    "has_pool": true,
+    "has_central_heating": true,
+    "has_central_cooling": true,
+    "city": "Lake Jennifer"
+  }
+]
