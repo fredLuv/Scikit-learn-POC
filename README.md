@@ -1,4 +1,4 @@
-# Scikit-learn POC (Advanced Refresh)
+# Scikit-learn POC (2026 Refresh)
 
 A housing-price ML project upgraded from a basic regression demo into a practical investor-facing decision support workflow.
 
@@ -89,7 +89,7 @@ pip install --upgrade pip
 pip install -e .
 ```
 
-## Train advanced model
+## Train model
 
 ```bash
 source .venv/bin/activate
